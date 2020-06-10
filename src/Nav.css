@@ -1,0 +1,14 @@
+.NavBar{
+    background-color:#494345;
+    display: flex;
+    color: white;
+    
+
+}
+.Name{
+    flex:1;
+    
+}
+.List{
+    flex:1;
+}
